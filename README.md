@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Coursera Web Development course Repository
 
 You can use the [editor on GitHub](https://github.com/ADITI-SINGH21/Web_Development_Coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
