@@ -1,9 +1,8 @@
 ### Coursera Web Development course Repository
 HTML, CSS, JavaScript for Web Developers by Johns Hopkins University
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Assignment Submission Links:
+Assignment 1 : [Module 2 Solution](https://aditi-singh21.github.io/Web_Development_Coursera/mod2_solution/)
+Assignment 2 : [Module 3 Solution](https://aditi-singh21.github.io/Web_Development_Coursera/mod3_solution/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
