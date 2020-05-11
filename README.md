@@ -1,8 +1,8 @@
 ### Coursera Web Development course Repository
 HTML, CSS, JavaScript for Web Developers by Johns Hopkins University
 ### Assignment Submission Links:
-## Assignment 1 : [Module 2 Solution](https://aditi-singh21.github.io/Web_Development_Coursera/mod2_solution/)
-## Assignment 2 : [Module 3 Solution](https://aditi-singh21.github.io/Web_Development_Coursera/mod3_solution/)
+# Assignment 1 : [Module 2 Solution](https://aditi-singh21.github.io/Web_Development_Coursera/mod2_solution/)
+# Assignment 2 : [Module 3 Solution](https://aditi-singh21.github.io/Web_Development_Coursera/mod3_solution/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
