@@ -1,6 +1,5 @@
 ### Coursera Web Development course Repository
-
-You can use the [editor on GitHub](https://github.com/ADITI-SINGH21/Web_Development_Coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+HTML, CSS, JavaScript for Web Developers by Johns Hopkins University
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
